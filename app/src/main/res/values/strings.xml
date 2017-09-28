@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReactDocs</string>
+    <string name="urlfirst">"http://facebook.github.io"</string>
+    <string name="docs">/docs/</string>
+    <string name=".html">.html</string>
+</resources>
